@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu May  4 20:20:21 2023
-
 @author: tsharma2
 """
 
@@ -43,8 +41,8 @@ def main():
     source_domain = 'WHITE'
     target_domain = args.target_domain
     groups = (source_domain,target_domain)
-    TaskName = 'TCGA-'+cancer_type+'-'+str(feature_type)+'-'+ groups[0]+'-'+groups[1]+'-'+target+'-'+str(years)
-    out_file_name = folderISAAC + 'Result/' + TaskName + 'YR.xlsx'
+    TaskName = 'TCGA-'+cancer_type+'-'+str(feature_type)+'-'+ groups[0]+'-'+groups[1]+'-'+target+'-'+str(years)+'YR'
+    out_file_name = folderISAAC + 'Result/' + TaskName + '.xlsx'
     CCSA_path = folderISAAC +'CCSA_data/' + TaskName + '/CCSA_pairs'
     checkpt_path = folderISAAC+'ckpt/FADA_'+TaskName+'_checkpoint.pt'
     if os.path.exists(out_file_name)!=True:

@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+"""
+@author: tsharma2
+"""
+
 #import time
 import random
 import numpy as np

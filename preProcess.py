@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Nov 18 16:53:08 2022
-
 @author: tsharma2
 """
 

@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+"""
+@author: tsharma2
+"""
+
 import theano
 from keras import Input, Model
 from keras.layers import Dropout, Dense, Activation, Lambda
