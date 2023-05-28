@@ -13,3 +13,8 @@ After execution, the result will be saved in the './Result/' folder as an excel 
 **References**
 
 [1] Yan Gao and Yan Cui (2020) Deep transfer learning for reducing health care disparities arising from biomedical data inequality. Nature Communications 11, 5131. https://www.nature.com/articles/s41467-020-18918-3
+
+
+**Contact**
+Dr. Yan Cui (ycui2@uthsc.edu)
+Dr. Teena Sharma (tsharma2@uthsc.edu)
