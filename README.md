@@ -1,4 +1,4 @@
-# Codes_Year02
+# MultiEthnicMachineLearning
 
 
 **Prerequisites Installation**
