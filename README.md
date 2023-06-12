@@ -36,7 +36,11 @@ Xlrd 1.1.0 - https://pypi.org/project/xlrd/1.1.0/
 
 **Running the codes**
 
-Download the required dataset from the link provided in the respective subfolder in the path './Dataset/EssentialData/' and run main.py with input arguments using the following command:
+STEP 1 - Download the required dataset from the link provided in the respective subfolder in the path './Dataset/EssentialData/'
+
+STEP 2 - In line 27 of main.py file, enter the one of the feature_type as an input argument
+
+STEP 3 - Run main.py with input arguments using the following command:
 
 python main.py <cancer_type> <clinical_outcome_endpoint> <event_time_threshold> <target_minority_group> <features_count>
 
@@ -48,7 +52,14 @@ After execution, the result will be saved in the './Result/' folder as an excel 
 [1] Yan Gao and Yan Cui (2020) Deep transfer learning for reducing health care disparities arising from biomedical data inequality. Nature Communications 11, 5131. https://www.nature.com/articles/s41467-020-18918-3
 
 
+**Acknowledgement**
+
+This work has been supported by NIH R01 grant.
+
+
 **Contact**
+
+For any queries, please contact:
 
 Prof. Yan Cui (ycui2@uthsc.edu)
 
