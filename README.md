@@ -38,7 +38,7 @@ Xlrd 1.1.0 - https://pypi.org/project/xlrd/1.1.0/
 
 STEP 1 - Download the required dataset from the link provided in the respective subfolder in the path './Dataset/EssentialData/'
 
-STEP 2 - In line 27 of main.py file, enter the one of the feature_type as an input argument
+STEP 2 - In line 27 of main.py file, enter the feature_type as an input argument
 
 STEP 3 - Run main.py with input arguments using the following command:
 
