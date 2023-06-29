@@ -47,11 +47,6 @@ python main.py <cancer_type> <clinical_outcome_endpoint> <event_time_threshold> 
 After execution, the result will be saved in the './Result/' folder as an excel file.
 
 
-**References**
-
-[1] Yan Gao and Yan Cui (2020) Deep transfer learning for reducing health care disparities arising from biomedical data inequality. Nature Communications 11, 5131. https://www.nature.com/articles/s41467-020-18918-3
-
-
 **Acknowledgement**
 
 This work has been supported by NIH R01 grant.
