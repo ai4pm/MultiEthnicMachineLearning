@@ -33,6 +33,8 @@ Lasagne 0.2.dev1 - https://github.com/Lasagne/Lasagne
 
 Xlrd 1.1.0 - https://pypi.org/project/xlrd/1.1.0/
 
+openpyxl - https://pypi.org/project/openpyxl/
+
 
 **Running the codes**
 
