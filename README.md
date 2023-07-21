@@ -60,4 +60,4 @@ For any queries, please contact:
 
 Prof. Yan Cui (ycui2@uthsc.edu)
 
-Dr. Teena Sharma (tsharma2@uthsc.edu)
+Dr. Teena Sharma (tee.shar6@gmail.com)
